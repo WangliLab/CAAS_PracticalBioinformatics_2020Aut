@@ -4,13 +4,13 @@ A graduate course covering critical computational skills and practical bioinform
 
 ## AGIS, CAAS
 
-A graduate course covering critical computational skills for working with biological data
+A graduate course covering _**critical computational skills**_ for working with biological data
 
-**Instructors:** [Yuwen Liu](http://www.), [Li Wang](http://www.)
+**Instructors:** [Yuwen Liu](http://www.), [Li Wang](wanglilab.github.io)
 
-**Time/Location:** 
+**Time/Location:** Wednesday evenings 6.30--9:10pm; D104
 
-**Web View:** [https://github.com/liu-genomics/CAAS-Bioinfomatics](https://github.com/liu-genomics/CAAS-Bioinfomatics)
+**Web View:** [Practical Bioinfomatics 2020 Autumn](https://github.com/WangliLab/CAAS_PracticalBioinformatics_2020Aut)
 
 ## Reading Material
 
@@ -19,7 +19,7 @@ A graduate course covering critical computational skills for working with biolog
 ## Course Schedule
 
 
-**[Week 1](https://github.com/liu-genomics/CAAS-Bioinfomatics)**
+**[Week 1](https://github.com/WangliLab/CAAS_PracticalBioinformatics_2020Aut/week1)**
 
 
 **[Week 2]()**
@@ -71,35 +71,39 @@ The group projects will be due at the end of the semester during the last two cl
 **Questions：**
 我们是否需要教一些Unix/R/Python Basics,还是suppose这些大家就会呢？
 
-**Brainstorm ideas:**
-1. 建立SLACK channel进行交流
-2. 测评：1)每部分内容有一些作业，根据作业提交率占比60% 2) 考试：group project and presentations 40%
+**Brainstorm ideas:**  
+
+1. 建立微信群进行交流
+2. 测评：1)每部分内容有一些作业 30% 2) 考试：group project and presentations 70%
 3. 一共48课时，大概20周时间，20-2=18周，一周是三个课时？16*3=48
 
-**Basic Bioinformatic tools:**
-1. Basic Unix
-2. Regular Expression
-3. Markdown files
-4. access to HPC clusters
-5. version control using Git
-6. Advanced Shell Pipelines
-7. Jupyter Notebook
-8. Make Snake/SOS?
+**Basic Bioinformatic tools:**  
 
-**Programming**
-1. R: 这部分可以结合统计学知识一起讲.
+* Basic Unix
+* Regular Expression
+* Markdown files
+* access to HPC clusters
+* version control using Git
+* Advanced Shell Pipelines
+* Jupyter Notebook
+* Make Snake/SOS?
+
+**Programming**  
+
+* R: 这部分可以结合统计学知识一起讲.
    1. 安装软件包
    2. 读取和存储数据
    3. 基本的统计分析（chi-square，t.test, permutation, hypergeometric test）
    4. Visualization (box plot, point plot, linear regression etc)
 
-2. Python:
+* Python:
    1. loops
    2. reading and writing files
    3. modules and libraries
    4. introduction to "pandas"
 
-**实用生信软件介绍:**
+**实用生信软件介绍:**  
+
 1. 序列比对：Bowtie, BWA
 2. 基因表达分析：EdgeR, DeSeq2, GO enrichment
 3. ChIP-Seq Peak分析:贝叶斯模型; 软件应用 Macs2
